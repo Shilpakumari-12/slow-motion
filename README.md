@@ -17,7 +17,7 @@ To use Slow Motion in your project, follow these steps:
 2. Link the `style.css` file in your HTML file:
 
     ```html
-    <link rel="stylesheet" href="path/to/style.css">
+    <link rel="stylesheet" href="style.css">
     ```
 
 3. Copy the HTML structure from the (index.html) file into your HTML file.
